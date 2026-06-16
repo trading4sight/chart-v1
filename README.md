@@ -1,5 +1,5 @@
 # chart-v1
-TRADING4SIGHT is a Trading Chart Platform
+TRADING4SIGHT is a Trading Chart Platform (OFFLINE MODE FREEZE: 15 JUNE 2026)
 
 ---
 # Changelog
